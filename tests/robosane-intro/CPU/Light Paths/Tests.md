@@ -1,4 +1,6 @@
-# CPU Test 1:
+# Initial Settings:
+![Initial Render Settings](./initial-settings.png)
+
 ## Bounces
 Still logo and text
 Using absolute number of bounces (set max and min to the same number)
@@ -13,15 +15,14 @@ No real change in performance.
 12 Lighting Bounces: 2:30
 Noise around logo and text is less noticeable
 
-## Result:
+#### Result:
 No performance change at all.
 
-# CPU Test 2:
 ## Reflective and Refractive Caustics
 
 Both Enabled: 2:30
 
 Both Disabled: 2:26
 
-## Result:
+#### Result:
 Barely any difference.
